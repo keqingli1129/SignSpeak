@@ -203,9 +203,9 @@ def Real_Time():
        
 def main():
     # pass
-    Real_Time()
+    # Real_Time()
     # CollectData()   
-    # Train() 
+    Train() 
 
 if __name__ == "__main__":
     main()
